@@ -1,0 +1,33 @@
+_repo: The-Curlytops-at-Uncle-Frank-s-Ranch--Or-Little-Folks-on-Ponyback_6814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcsh 'Montana -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- GITenberg
+title: The Curlytops at Uncle Frank's Ranch; Or, Little Folks on Ponyback
+url: http://www.gutenberg.org/ebooks/6814
